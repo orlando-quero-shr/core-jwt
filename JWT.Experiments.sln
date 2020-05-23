@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT.Experiments", "JWT.Experiments\JWT.Experiments.csproj", "{BB30B947-704C-4853-90DE-D4F3160B1060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Core.Security", "API.Core.Security\API.Core.Security.csproj", "{986D3103-3F14-45DB-BCD2-A5EDADE0E720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB30B947-704C-4853-90DE-D4F3160B1060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB30B947-704C-4853-90DE-D4F3160B1060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB30B947-704C-4853-90DE-D4F3160B1060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB30B947-704C-4853-90DE-D4F3160B1060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986D3103-3F14-45DB-BCD2-A5EDADE0E720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986D3103-3F14-45DB-BCD2-A5EDADE0E720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986D3103-3F14-45DB-BCD2-A5EDADE0E720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986D3103-3F14-45DB-BCD2-A5EDADE0E720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0C5A7C-6032-43BC-A8F9-9EF6DADC23E9}
+	EndGlobalSection
+EndGlobal
